@@ -1,5 +1,6 @@
 /*
     This is a for rent and reserve book in a blockchain on Etherium.
+    This demonstrates various function.
 
 */
 
